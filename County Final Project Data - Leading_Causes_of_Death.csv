@@ -1,0 +1,133 @@
+,year,category,causes_of_death,num_of_deaths,percentage_of_death
+,2007,Santa Clara County,Heart diseases,2036,24
+,2007,Santa Clara County,Cancer,2245,26
+,2007,Santa Clara County,Cerebrovascular Disease,484,6
+,2007,Santa Clara County,Chronic Lower Respiratory Diseases,421,5
+,2007,Santa Clara County,Unintentional injuries,387,5
+,2007,Santa Clara County,Diabetes,346,4
+,2007,Santa Clara County,Influenza and pneumonia,272,3
+,2007,Santa Clara County,Alzheimer's disease,484,6
+,2007,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",45,1
+,2007,Santa Clara County,Suicide,136,2
+,2007,Santa Clara County,Chronic Liver Disease and Cirrhosis,148,2
+,2007,Santa Clara County,Essential hypertension and related renal disease,143,2
+,2007,Santa Clara County,Homicide,51,1
+,2008,Santa Clara County,Heart diseases,2035,23
+,2008,Santa Clara County,Cancer,2250,25
+,2008,Santa Clara County,Cerebrovascular Disease,470,5
+,2008,Santa Clara County,Chronic Lower Respiratory Diseases,415,5
+,2008,Santa Clara County,Unintentional injuries,408,5
+,2008,Santa Clara County,Diabetes,346,4
+,2008,Santa Clara County,Influenza and pneumonia,284,3
+,2008,Santa Clara County,Alzheimer's disease,640,7
+,2008,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",35,
+,2008,Santa Clara County,Suicide,154,2
+,2008,Santa Clara County,Chronic Liver Disease and Cirrhosis,162,2
+,2008,Santa Clara County,Essential hypertension and related renal disease,186,2
+,2008,Santa Clara County,Homicide,49,1
+,2009,Santa Clara County,Heart diseases,1962,22
+,2009,Santa Clara County,Cancer,2274,26
+,2009,Santa Clara County,Cerebrovascular Disease,480,5
+,2009,Santa Clara County,Chronic Lower Respiratory Diseases,408,5
+,2009,Santa Clara County,Unintentional injuries,397,5
+,2009,Santa Clara County,Diabetes,388,4
+,2009,Santa Clara County,Influenza and pneumonia,268,3
+,2009,Santa Clara County,Alzheimer's disease,598,7
+,2009,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",41,1
+,2009,Santa Clara County,Suicide,143,2
+,2009,Santa Clara County,Chronic Liver Disease and Cirrhosis,165,2
+,2009,Santa Clara County,Essential hypertension and related renal disease,204,2
+,2009,Santa Clara County,Homicide,47,1
+,2010,Santa Clara County,Heart diseases,2015,23
+,2010,Santa Clara County,Cancer,2326,26
+,2010,Santa Clara County,Cerebrovascular Disease,485,5
+,2010,Santa Clara County,Chronic Lower Respiratory Diseases,410,5
+,2010,Santa Clara County,Unintentional injuries,400,5
+,2010,Santa Clara County,Diabetes,357,4
+,2010,Santa Clara County,Influenza and pneumonia,230,3
+,2010,Santa Clara County,Alzheimer's disease,629,7
+,2010,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",30,
+,2010,Santa Clara County,Suicide,146,2
+,2010,Santa Clara County,Chronic Liver Disease and Cirrhosis,157,2
+,2010,Santa Clara County,Essential hypertension and related renal disease,209,2
+,2010,Santa Clara County,Homicide,32,
+,2011,Santa Clara County,Heart diseases,1937,21
+,2011,Santa Clara County,Cancer,2359,26
+,2011,Santa Clara County,Cerebrovascular Disease,428,5
+,2011,Santa Clara County,Chronic Lower Respiratory Diseases,395,4
+,2011,Santa Clara County,Unintentional injuries,392,4
+,2011,Santa Clara County,Diabetes,383,4
+,2011,Santa Clara County,Influenza and pneumonia,224,3
+,2011,Santa Clara County,Alzheimer's disease,695,8
+,2011,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",16,
+,2011,Santa Clara County,Suicide,156,2
+,2011,Santa Clara County,Chronic Liver Disease and Cirrhosis,181,2
+,2011,Santa Clara County,Essential hypertension and related renal disease,244,3
+,2011,Santa Clara County,Homicide,60,1
+,2012,Santa Clara County,Heart diseases,2016,22
+,2012,Santa Clara County,Cancer,2362,25
+,2012,Santa Clara County,Cerebrovascular Disease,442,5
+,2012,Santa Clara County,Chronic Lower Respiratory Diseases,427,5
+,2012,Santa Clara County,Unintentional injuries,436,5
+,2012,Santa Clara County,Diabetes,394,4
+,2012,Santa Clara County,Influenza and pneumonia,231,3
+,2012,Santa Clara County,Alzheimer's disease,716,8
+,2012,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",25,
+,2012,Santa Clara County,Suicide,144,2
+,2012,Santa Clara County,Chronic Liver Disease and Cirrhosis,170,2
+,2012,Santa Clara County,Essential hypertension and related renal disease,283,3
+,2012,Santa Clara County,Homicide,57,1
+,2013,Santa Clara County,Heart diseases,2009,21
+,2013,Santa Clara County,Cancer,2361,25
+,2013,Santa Clara County,Cerebrovascular Disease,470,5
+,2013,Santa Clara County,Chronic Lower Respiratory Diseases,418,5
+,2013,Santa Clara County,Unintentional injuries,425,5
+,2013,Santa Clara County,Diabetes,394,4
+,2013,Santa Clara County,Influenza and pneumonia,241,3
+,2013,Santa Clara County,Alzheimer's disease,261,3
+,2013,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",50,1
+,2013,Santa Clara County,Suicide,148,2
+,2013,Santa Clara County,Chronic Liver Disease and Cirrhosis,166,2
+,2013,Santa Clara County,Essential hypertension and related renal disease,279,3
+,2013,Santa Clara County,Homicide,53,1
+,2014,Santa Clara County,Heart diseases,1992,21
+,2014,Santa Clara County,Cancer,2444,25
+,2014,Santa Clara County,Cerebrovascular Disease,542,6
+,2014,Santa Clara County,Chronic Lower Respiratory Diseases,387,4
+,2014,Santa Clara County,Unintentional injuries,446,5
+,2014,Santa Clara County,Diabetes,441,5
+,2014,Santa Clara County,Influenza and pneumonia,218,2
+,2014,Santa Clara County,Alzheimer's disease,130,1
+,2014,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",65,1
+,2014,Santa Clara County,Suicide,152,2
+,2014,Santa Clara County,Chronic Liver Disease and Cirrhosis,156,2
+,2014,Santa Clara County,Essential hypertension and related renal disease,283,3
+,2014,Santa Clara County,Homicide,45,1
+,2015,Santa Clara County,Heart diseases,2083,21
+,2015,Santa Clara County,Cancer,2462,25
+,2015,Santa Clara County,Cerebrovascular Disease,501,5
+,2015,Santa Clara County,Chronic Lower Respiratory Diseases,394,4
+,2015,Santa Clara County,Unintentional injuries,493,5
+,2015,Santa Clara County,Diabetes,431,4
+,2015,Santa Clara County,Influenza and pneumonia,194,2
+,2015,Santa Clara County,Alzheimer's disease,90,1
+,2015,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",45,1
+,2015,Santa Clara County,Suicide,153,2
+,2015,Santa Clara County,Chronic Liver Disease and Cirrhosis,200,2
+,2015,Santa Clara County,Essential hypertension and related renal disease,409,4
+,2015,Santa Clara County,Homicide,45,1
+,2016,Santa Clara County,Heart diseases,2093,21
+,2016,Santa Clara County,Cancer,2414,24
+,2016,Santa Clara County,Cerebrovascular Disease,573,6
+,2016,Santa Clara County,Chronic Lower Respiratory Diseases,387,4
+,2016,Santa Clara County,Unintentional injuries,492,5
+,2016,Santa Clara County,Diabetes,428,4
+,2016,Santa Clara County,Influenza and pneumonia,169,2
+,2016,Santa Clara County,Alzheimer's disease,112,1
+,2016,Santa Clara County,"Nephritis, nephrotic syndrome and nephrosis",90,1
+,2016,Santa Clara County,Suicide,142,1
+,2016,Santa Clara County,Chronic Liver Disease and Cirrhosis,154,2
+,2016,Santa Clara County,Essential hypertension and related renal disease,410,4
+,2016,Santa Clara County,Homicide,55,1
+Title: Leading causes of death among residents of Santa Clara County,,,,,
+"Source: Santa Clara County Public Health Department, VRBIS, 2007-2016. Data as of 05/26/2017",,,,,

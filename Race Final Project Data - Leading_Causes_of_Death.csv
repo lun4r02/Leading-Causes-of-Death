@@ -1,0 +1,55 @@
+,year,category,causes_of_death,num_of_deaths,percentage_of_death
+,2016,African American,Heart diseases,67,23
+,2016,African American,Cancer,74,25
+,2016,African American,Cerebrovascular Disease,17,6
+,2016,African American,Chronic Lower Respiratory Diseases,12,4
+,2016,African American,Unintentional injuries,21,7
+,2016,African American,Diabetes,11,4
+,2016,African American,Influenza and pneumonia,4,1
+,2016,African American,Alzheimer's disease,1,
+,2016,African American,"Nephritis, nephrotic syndrome and nephrosis",1,
+,2016,African American,Suicide,3,1
+,2016,African American,Chronic Liver Disease and Cirrhosis,3,1
+,2016,African American,Essential hypertension and related renal disease,14,5
+,2016,African American,Homicide,3,1
+,2016,Asian/Pacific Islander,Heart diseases,396,18
+,2016,Asian/Pacific Islander,Cancer,604,28
+,2016,Asian/Pacific Islander,Cerebrovascular Disease,156,7
+,2016,Asian/Pacific Islander,Chronic Lower Respiratory Diseases,66,3
+,2016,Asian/Pacific Islander,Unintentional injuries,85,4
+,2016,Asian/Pacific Islander,Diabetes,122,6
+,2016,Asian/Pacific Islander,Influenza and pneumonia,44,2
+,2016,Asian/Pacific Islander,Alzheimer's disease,25,1
+,2016,Asian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",24,1
+,2016,Asian/Pacific Islander,Suicide,28,1
+,2016,Asian/Pacific Islander,Chronic Liver Disease and Cirrhosis,10,1
+,2016,Asian/Pacific Islander,Essential hypertension and related renal disease,125,6
+,2016,Asian/Pacific Islander,Homicide,11,1
+,2016,Latino,Heart diseases,269,17
+,2016,Latino,Cancer,369,24
+,2016,Latino,Cerebrovascular Disease,90,6
+,2016,Latino,Chronic Lower Respiratory Diseases,39,3
+,2016,Latino,Unintentional injuries,114,7
+,2016,Latino,Diabetes,104,7
+,2016,Latino,Influenza and pneumonia,23,2
+,2016,Latino,Alzheimer's disease,9,1
+,2016,Latino,"Nephritis, nephrotic syndrome and nephrosis",15,1
+,2016,Latino,Suicide,18,1
+,2016,Latino,Chronic Liver Disease and Cirrhosis,57,4
+,2016,Latino,Essential hypertension and related renal disease,63,4
+,2016,Latino,Homicide,26,2
+,2016,White,Heart diseases,1331,23
+,2016,White,Cancer,1333,23
+,2016,White,Cerebrovascular Disease,299,5
+,2016,White,Chronic Lower Respiratory Diseases,266,5
+,2016,White,Unintentional injuries,251,4
+,2016,White,Diabetes,176,3
+,2016,White,Influenza and pneumonia,95,2
+,2016,White,Alzheimer's disease,75,1
+,2016,White,"Nephritis, nephrotic syndrome and nephrosis",47,1
+,2016,White,Suicide,85,2
+,2016,White,Chronic Liver Disease and Cirrhosis,78,1
+,2016,White,Essential hypertension and related renal disease,197,3
+,2016,White,Homicide,13,
+Title: Leading causes of death among residents of Santa Clara County,,,,,
+"Source: Santa Clara County Public Health Department, VRBIS, 2007-2016. Data as of 05/26/2017",,,,,

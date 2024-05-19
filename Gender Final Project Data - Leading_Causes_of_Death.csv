@@ -1,0 +1,29 @@
+,year,category,causes_of_death,num_of_deaths,percentage_of_death
+,2016,Male,Heart diseases,1137,22
+,2016,Male,Cancer,1252,24
+,2016,Male,Cerebrovascular Disease,242,5
+,2016,Male,Chronic Lower Respiratory Diseases,195,4
+,2016,Male,Unintentional injuries,325,6
+,2016,Male,Diabetes,257,5
+,2016,Male,Influenza and pneumonia,85,2
+,2016,Male,Alzheimer's disease,41,1
+,2016,Male,"Nephritis, nephrotic syndrome and nephrosis",47,1
+,2016,Male,Suicide,111,2
+,2016,Male,Chronic Liver Disease and Cirrhosis,98,2
+,2016,Male,Essential hypertension and related renal disease,195,4
+,2016,Male,Homicide,45,1
+,2016,Female,Heart diseases,956,20
+,2016,Female,Cancer,1162,24
+,2016,Female,Cerebrovascular Disease,331,7
+,2016,Female,Chronic Lower Respiratory Diseases,192,4
+,2016,Female,Unintentional injuries,167,4
+,2016,Female,Diabetes,171,4
+,2016,Female,Influenza and pneumonia,84,2
+,2016,Female,Alzheimer's disease,71,2
+,2016,Female,"Nephritis, nephrotic syndrome and nephrosis",43,1
+,2016,Female,Suicide,31,1
+,2016,Female,Chronic Liver Disease and Cirrhosis,56,1
+,2016,Female,Essential hypertension and related renal disease,215,4
+,2016,Female,Homicide,10,
+Title: Leading causes of death among residents of Santa Clara County,,,,,
+"Source: Santa Clara County Public Health Department, VRBIS, 2007-2016. Data as of 05/26/2017",,,,,
